@@ -1,5 +1,8 @@
 theme: jekyll-theme-cayman
 
+# Name of your site (displayed in the header)
+name: Vibhuti
+
 description: Airbnb New User Bookings
 
 footer-links:
