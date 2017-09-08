@@ -2,7 +2,7 @@
 
 Vibhuti Gupta & Gantaphon Chalumporn
 
-# Data Analytics Project
+# Project Overview
 
 This page is for Data Analytics course project
 
