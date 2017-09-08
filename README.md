@@ -1,3 +1,7 @@
+# Team Members
+
+Vibhuti Gupta & Gantaphon Chalumporn
+
 # Data Analytics Project
 
 This page is for Data Analytics course project
