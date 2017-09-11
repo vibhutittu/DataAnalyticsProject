@@ -12,7 +12,6 @@ https://github.com/vibhutittu/DataAnalyticsProject/blob/master/Tweets_Harvey_Lis
 ## Code for twitter crawling
 https://github.com/vibhutittu/DataAnalyticsProject/blob/master/Tweets_harvey.R
 
-###Text Similarity
 
 
 
